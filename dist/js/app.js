@@ -1,0 +1,1 @@
+"use strict";var human={breathe:function(){console.log("breathing...")}},worker={__proto__:human,company:"freelancer",work:function(){console.log("working...")}};human.breathe(),worker.breathe();var a=1,num=Math.random();console.log("your num is "+num);
